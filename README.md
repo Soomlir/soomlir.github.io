@@ -18,7 +18,7 @@ github:
 https://github.com/Soomlir
 
 - Профиль html academy.
-https://htmlacademy.ru/profile/id2192575
+[htmlAcademy](https://htmlacademy.ru/profile/id2192575)
 
 Примеры верстки (все проекты выполнены строго PixelPerfect):
 Десктоп верстка:
