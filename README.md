@@ -2,16 +2,42 @@
 
 ## Igor Soomlir
 
-### Hard skills 
+Hard skills:
+- HTML5, Emmet, MarkDown 
+- CSS3, Less, SCSS, BEM 
+- JavaScirpt, ES6+ 
+- Vue 3 
+- Pixel perfect, mobile-first 
+- Адаптивная, кроссбраузерная, семантичная, доступная, переполняемая, валидная верстка
+- PHP, OOП
 
-* html 5, mardown
-* css 3, less, flexbox, grid
-* javascript, es6
-* figma, pixel perfect
-* small experience back end (php + mysql)
+- Linux, Windows User
+- VS Code 
 
-Моя верстка:
-[Первый проект](https://soomlir.github.io/scandi/) (1 page)
-[Второй проект](https://soomlir.github.io/sedona/) (2 pages)
+github:
+https://github.com/Soomlir
 
-Готов выполнить ваше тестовое задание, по итогам которого попасть на собеседование. 
+- Профиль html academy.
+https://htmlacademy.ru/profile/id2192575
+
+Примеры верстки (все проекты выполнены строго PixelPerfect):
+Десктоп верстка:
+https://soomlir.github.io/scandi/
+https://soomlir.github.io/sedona/ 
+https://soomlir.github.io/sedona/catalog.html
+https://soomlir.github.io/minimo/
+Адаптивная верстка:
+https://soomlir.github.io/mishka/
+https://soomlir.github.io/mishka/catalog.html
+https://soomlir.github.io/mishka/form.html
+Тестовое:
+https://soomlir.github.io/four-horses/
+https://soomlir.github.io/cooktour/
+Выпускной JS-проект:
+https://soomlir.github.io/keksobooking/
+(написание логики для карты, формы, валидация)
+
+Проекты на Vue.js: 
+https://soomlir.github.io/vue-todo-list/
+Тестовое на Vue.js:
+https://soomlir.github.io/organizations-demo/
