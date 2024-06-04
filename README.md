@@ -22,22 +22,23 @@ https://htmlacademy.ru/profile/id2192575
 
 Примеры верстки (все проекты выполнены строго PixelPerfect):
 Десктоп верстка:
-https://soomlir.github.io/scandi/
-https://soomlir.github.io/sedona/ 
-https://soomlir.github.io/sedona/catalog.html
-https://soomlir.github.io/minimo/
+* https://soomlir.github.io/scandi/
+* https://soomlir.github.io/sedona/ 
+* https://soomlir.github.io/sedona/catalog.html
+* https://soomlir.github.io/minimo/
 Адаптивная верстка:
-https://soomlir.github.io/mishka/
-https://soomlir.github.io/mishka/catalog.html
-https://soomlir.github.io/mishka/form.html
+* https://soomlir.github.io/mishka/
+* https://soomlir.github.io/mishka/catalog.html
+* https://soomlir.github.io/mishka/form.html
 Тестовое:
-https://soomlir.github.io/four-horses/
-https://soomlir.github.io/cooktour/
-Выпускной JS-проект:
-https://soomlir.github.io/keksobooking/
-(написание логики для карты, формы, валидация)
+* https://soomlir.github.io/four-horses/
+* https://soomlir.github.io/cooktour/
+
+Учебный JS-проект
+* https://soomlir.github.io/keksobooking/
 
 Проекты на Vue.js: 
-https://soomlir.github.io/vue-todo-list/
+* https://soomlir.github.io/vue-todo-list/
 Тестовое на Vue.js:
-https://soomlir.github.io/organizations-demo/
+* https://soomlir.github.io/organizations-demo/
+
