@@ -22,23 +22,23 @@ https://htmlacademy.ru/profile/id2192575
 
 Примеры верстки (все проекты выполнены строго PixelPerfect):
 Десктоп верстка:
-* [scandi]https://soomlir.github.io/scandi/
-* [sedona]https://soomlir.github.io/sedona/ 
-* [sedona/catalog]https://soomlir.github.io/sedona/catalog.html
-* [minimo]https://soomlir.github.io/minimo/
+* [scandi](https://soomlir.github.io/scandi/)
+* [sedona](https://soomlir.github.io/sedona/) 
+* [sedona/catalog](https://soomlir.github.io/sedona/catalog.html)
+* [minimo]https://(soomlir.github.io/minimo/)
 Адаптивная верстка:
-* [mishka]https://soomlir.github.io/mishka/
-* [mishka/catalog]https://soomlir.github.io/mishka/catalog.html
-* [mishka/form]https://soomlir.github.io/mishka/form.html
+* [mishka](https://soomlir.github.io/mishka/)
+* [mishka/catalog](https://soomlir.github.io/mishka/catalog.html)
+* [mishka/form](https://soomlir.github.io/mishka/form.html)
 Тестовое:
-* [four-horses]https://soomlir.github.io/four-horses/
-* [cooktour]https://soomlir.github.io/cooktour/
+* [four-horses](https://soomlir.github.io/four-horses/)
+* [cooktour](https://soomlir.github.io/cooktour/)
 
 Учебный JS-проект
-* [keksobooking]https://soomlir.github.io/keksobooking/
+* [keksobooking](https://soomlir.github.io/keksobooking/)
 
 Проекты на Vue.js: 
-* [vue-todo-list]https://soomlir.github.io/vue-todo-list/
+* [vue-todo-list](https://soomlir.github.io/vue-todo-list/)
 Тестовое на Vue.js:
-* [organizations-demo]https://soomlir.github.io/organizations-demo/
+* [organizations-demo](https://soomlir.github.io/organizations-demo/)
 
