@@ -25,20 +25,18 @@ https://htmlacademy.ru/profile/id2192575
 * [scandi](https://soomlir.github.io/scandi/)
 * [sedona](https://soomlir.github.io/sedona/) 
 * [sedona/catalog](https://soomlir.github.io/sedona/catalog.html)
-* [minimo]https://(soomlir.github.io/minimo/)
-Адаптивная верстка:
+* [minimo](https://soomlir.github.io/minimo/)
+* Адаптивная верстка:
 * [mishka](https://soomlir.github.io/mishka/)
 * [mishka/catalog](https://soomlir.github.io/mishka/catalog.html)
 * [mishka/form](https://soomlir.github.io/mishka/form.html)
-Тестовое:
+* Тестовое:
 * [four-horses](https://soomlir.github.io/four-horses/)
 * [cooktour](https://soomlir.github.io/cooktour/)
-
-Учебный JS-проект
+* Учебный JS-проект
 * [keksobooking](https://soomlir.github.io/keksobooking/)
-
-Проекты на Vue.js: 
+* Проекты на Vue.js: 
 * [vue-todo-list](https://soomlir.github.io/vue-todo-list/)
-Тестовое на Vue.js:
+* Тестовое на Vue.js:
 * [organizations-demo](https://soomlir.github.io/organizations-demo/)
 
